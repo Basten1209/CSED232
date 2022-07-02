@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\user\source\repos\prob1_20210661\prob1_20210661\main.cpp(19,33): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\prob1_20210661\prob1_20210661\main.cpp(30,20): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\prob1_20210661\prob1_20210661\main.cpp(40,23): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\prob1_20210661\prob1_20210661\main.cpp(43,50): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\user\source\repos\prob1_20210661\prob1_20210661\main.cpp(90,15): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  Vector.cpp
+C:\Users\user\source\repos\prob1_20210661\prob1_20210661\Vector.cpp(116,8): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\prob1_20210661\prob1_20210661\Vector.cpp(134,16): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\prob1_20210661\prob1_20210661\Vector.cpp(135,8): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\prob1_20210661\prob1_20210661\Vector.cpp(155,8): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  prob1_20210661.vcxproj -> C:\Users\user\source\repos\prob1_20210661\x64\Debug\prob1_20210661.exe
